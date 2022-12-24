@@ -1,0 +1,260 @@
+ .u-section-1 {
+  background-image: none;
+  min-height: 812px;
+}
+
+.u-section-1 .u-group-1 {
+  min-height: 0;
+  height: auto;
+  margin: 0;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.u-section-1 .u-shape-1 {
+  height: 697px;
+  width: 2020px;
+  margin: 204px 37px 0 -37px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 1306px;
+  height: 670px;
+  transition-duration: 0.5s;
+  transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
+  margin: -907px calc(((100% - 1920px) / 2) + -167px) 0 auto;
+}
+
+.u-section-1 .u-image-2 {
+  width: 1190px;
+  height: 691px;
+  transition-duration: 0.5s;
+  transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
+  margin: -680px auto 60px calc(((100% - 1920px) / 2) + -116px);
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-group-1 {
+    margin-right: initial;
+    margin-left: initial;
+    height: auto;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+
+  .u-section-1 .u-shape-1 {
+    width: 1199px;
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-right: calc(((100% - 1199px) / 2) + -167px);
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-left: calc(((100% - 1199px) / 2) + -116px);
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-1 {
+    min-height: 238px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    width: 720px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 720px;
+    height: 369px;
+    margin-right: calc(((100% - 720px) / 2));
+  }
+
+  .u-section-1 .u-image-2 {
+    width: 720px;
+    height: 418px;
+    margin-top: -379px;
+    margin-bottom: 47px;
+    margin-left: calc(((100% - 720px) / 2));
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-1 {
+    min-height: 42px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    width: 540px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 540px;
+    height: 277px;
+    margin-right: calc(((100% - 540px) / 2));
+  }
+
+  .u-section-1 .u-image-2 {
+    width: 540px;
+    height: 314px;
+    margin-top: -287px;
+    margin-left: calc(((100% - 540px) / 2));
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-shape-1 {
+    width: 340px;
+    margin-top: 286px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 340px;
+    height: 174px;
+    margin-right: calc(((100% - 340px) / 2));
+  }
+
+  .u-section-1 .u-image-2 {
+    width: 340px;
+    height: 198px;
+    margin-top: -184px;
+    margin-left: calc(((100% - 340px) / 2));
+  }
+}
+
+.u-section-1 .u-image-2,
+.u-section-1 .u-image-2:before,
+.u-section-1 .u-image-2 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position;
+}
+
+.u-section-1 .u-image-2.u-image-2.u-image-2:hover {
+  transform: translateX(0px) translateY(-5px) scale(1) rotate(0deg) !important;
+}
+
+.u-section-1 .u-image-2.u-image-2.u-image-2.hover {
+  transform: translateX(0px) translateY(-5px) scale(1) rotate(0deg) !important;
+}
+
+.u-section-1 .u-container-layout:hover .u-image-2 {
+  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
+}
+
+.u-container-layout.hover .u-section-1 .u-image-2 {
+  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
+}
+
+.u-section-1 .u-image-1,
+.u-section-1 .u-image-1:before,
+.u-section-1 .u-image-1 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position;
+}
+
+.u-section-1 .u-image-1.u-image-1.u-image-1:hover {
+  transform: translateX(0px) translateY(-5px) scale(1) rotate(0deg) !important;
+}
+
+.u-section-1 .u-image-1.u-image-1.u-image-1.hover {
+  transform: translateX(0px) translateY(-5px) scale(1) rotate(0deg) !important;
+}
+
+.u-section-1 .u-container-layout:hover .u-image-1 {
+  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
+}
+
+.u-container-layout.hover .u-section-1 .u-image-1 {
+  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
+}.u-section-2 .u-sheet-1 {
+  min-height: 1218px;
+}
+
+.u-section-2 .u-image-1 {
+  width: 1923px;
+  height: 1188px;
+  margin: -60px -3px 60px auto;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 770px;
+  }
+
+  .u-section-2 .u-image-1 {
+    width: 1199px;
+    height: 740px;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 474px;
+  }
+
+  .u-section-2 .u-image-1 {
+    width: 720px;
+    height: 444px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 363px;
+  }
+
+  .u-section-2 .u-image-1 {
+    width: 540px;
+    height: 333px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 240px;
+  }
+
+  .u-section-2 .u-image-1 {
+    width: 340px;
+    height: 210px;
+  }
+}/* Decoration Ends */
+/* Code For Custom Scrollbar Starts Here */
+/* For firefox */
+.sub-div {
+  max-height: 100vh;
+  overflow-y: scroll;
+  /*Thumb color and background color for firefox */
+  scrollbar-color: #00c6ff #242942;
+  overflow-x: none;
+}
+/*  ::-webkit- is for chrome */
+::-webkit-scrollbar {
+  width: 1.2em;
+  overflow-x: none;
+}
+::-webkit-scrollbar-track {
+  background-color: rgba(255, 255, 255, 0.26);
+  margin-block: 0.25em;
+  border-radius: 0.3em;
+}
+::-webkit-scrollbar-thumb {
+  background: #30341b;
+  background: -webkit-linear-gradient(to right, #30341b, #30341b);
+  background: linear-gradient(to right, #30341b, #30341b);
+  border-radius: 0.3em;
+}
+.import.urlhttps.fontsgoogleapiscomcss2familyLalezardisplayswap {
+}
